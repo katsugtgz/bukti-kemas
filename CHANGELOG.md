@@ -1,5 +1,9 @@
 # Changelog
 
+## Unreleased
+
+- CI and Pages use the current stable actions: checkout v7, pnpm/setup v3, configure-pages v6, upload-pages-artifact v5, deploy-pages v5
+
 ## 0.1.0 — 2026-09-22
 
 Repository scaffold. Not packing proof.
