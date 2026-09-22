@@ -33,7 +33,7 @@ jobs:
       - run: pnpm build
         env:
           VITE_BASE: /bukti-kemas/
-      - uses: actions/upload-pages-artifact@v3
+      - uses: actions/upload-pages-artifact@v5
         with:
           path: dist
       - id: deployment
