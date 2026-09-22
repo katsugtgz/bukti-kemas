@@ -1,0 +1,18 @@
+name: Feature
+description: A change to Bukti Kemas
+title: ""
+labels:
+  - needs-triage
+body:
+  - type: textarea
+    id: job
+    attributes:
+      label: What should a packer be able to do
+    validations:
+      required: true
+  - type: textarea
+    id: why
+    attributes:
+      label: Why the current app is not enough
+    validations:
+      required: false

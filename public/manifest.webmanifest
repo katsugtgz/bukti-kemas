@@ -1,0 +1,19 @@
+{
+  "name": "Bukti Kemas",
+  "short_name": "BuktiKemas",
+  "description": "Scan a resi, record packing video, save it on your own PC.",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#171717",
+  "theme_color": "#171717",
+  "lang": "id",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
